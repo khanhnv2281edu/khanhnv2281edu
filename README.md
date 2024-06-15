@@ -1,4 +1,4 @@
-- 👋 &nbsp; Hi, I’m Khánh
+- 👋 &nbsp; Hi, I’m Khánh, a student of VNU
 - :telephone_receiver: &nbsp; 0967806572
 - :e-mail: &nbsp; miserybee99@gmail.com
 - :school: &nbsp; HCMUS
